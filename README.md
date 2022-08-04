@@ -1,7 +1,17 @@
-# Programming Assignments
+# Init
+- you can execute via following commands:
 
-The folder includes:
+```bash
+npm i
+```
 
-- [./Asynchronous_programming.md](./Asynchronous_programming.md)
+```bash
+npm run start
+```
 
-problems. Please, implement all the tasks and send us the results for review.
+# Testing
+
+- To run the tests execute following:
+```bash
+npm run test
+```
